@@ -10,12 +10,12 @@ python dns_server.py
 + https://youtu.be/JvjdmeKukD8  
 ## Примеры работы: ##
 __Отправляем запрос на получение ресурсной записи типа "NS"__   
-![plot](../DNS-server/media/requestNS.png)  
+![plot](./media/requestNS.png)  
 __Получим следующий ответ:__  
-![plot](../DNS-server/media/responseNS.png)  
+![plot](./media/responseNS.png)  
 __Отправляем запрос на получение ресурсной записи типа "A"__
-![plot](../DNS-server/media/requestA.png)  
+![plot](./media/requestA.png)  
 __Получим следующий ответ:__  
-![plot](../DNS-server/media/responseA.png)
+![plot](./media/responseA.png)
 
 ___Задачу выполнил: Матус Матвей КН-201 (МЕН-210201)___
